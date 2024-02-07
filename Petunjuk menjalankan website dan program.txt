@@ -1,0 +1,9 @@
+Petunjuk menjalankan program python:
+1. Run program
+2. Akan ada permintaan untuk memasukkan input
+3. Output akan muncul sesuai dengan kata atau kalimat yang diinputkan
+
+Petunjuk menjalankan website:
+1. Buka file index.html menggunakan browser
+2. Akan ada permintaan untuk memasukkan input
+3. Output akan muncul sesuai dengan kata atau kalimat yang diinputkan
